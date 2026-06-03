@@ -63,7 +63,7 @@ conditional formatting across all pages.
 
 ## Screenshots
 ### Page 1 — Programme Overview
-![Programme Overview](Dashboard_Screenshots/Page1_Programme_Overview.png)
+Screenshot 2026-06-04 002245.png
 
 ### Page 2 — Data Quality Monitor
 ![Data Quality Monitor](Dashboard_Screenshots/Page2_Data_Quality_Monitor.png)
