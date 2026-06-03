@@ -62,17 +62,18 @@ including incremental data refresh configuration and enhanced
 conditional formatting across all pages.
 
 ## Screenshots
+
 ### Page 1 — Programme Overview
-Screenshot 2026-06-04 002245.png
+![Programme Overview](Page1_Programme_Overview.png)
 
 ### Page 2 — Data Quality Monitor
-![Data Quality Monitor](Dashboard_Screenshots/Page2_Data_Quality_Monitor.png)
+![Data Quality Monitor](Page2_Data_Quality_Monitor.png)
 
 ### Page 3 — Risk and Anomaly Tracker
-![Risk Tracker](Dashboard_Screenshots/Page3_Risk_Anomaly_Tracker.png)
+![Risk Tracker](Page3_Risk_Anomaly_Tracker.png)
 
 ### Page 4 — MI Leadership Summary
-![MI Summary](Dashboard_Screenshots/Page4_MI_Leadership_Summary.png)
+![MI Summary](Page4_MI_Leadership_Summary.png)
 
 ## Author
 Kunal Patil — Data Analyst
